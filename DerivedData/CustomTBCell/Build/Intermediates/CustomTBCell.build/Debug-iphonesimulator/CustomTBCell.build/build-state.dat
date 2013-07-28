@@ -1,0 +1,442 @@
+TCustomTBCell
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Info.plist CustomTBCell/CustomTBCell-Info.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch.pth CustomTBCell/CustomTBCell-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/MasterViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/customCell.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/DetailViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell normal i386
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app.dSYM /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell
+cCpResource CustomTBCell/Default.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default.png
+cCpResource CustomTBCell/Default@2x.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default@2x.png
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/InfoPlist.strings CustomTBCell/en.lproj/InfoPlist.strings
+cCpResource CustomTBCell/Default-568h@2x.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default-568h@2x.png
+cCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/MasterViewController.xib
+cCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.xib
+cCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/DetailViewController.xib
+cCpResource CustomTBCell/BuyOn.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/BuyOn.png
+cTouch /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BC19FB0000000000000110
+t1371281915
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF1050000000000228FE0
+t1361899781
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF10700000000003DDFA0
+t1361899783
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF10600000000000015F7
+t1361899782
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF10B0000000000000E8D
+t1361899787
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF10D0000000000AB6230
+t1361899789
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000512CF11C0000000000001B73
+t1361899804
+s7027
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.h
+c0000000051EA3A910000000000000171
+t1374304913
+s369
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.m
+c0000000051EA3A9100000000000009B0
+t1374304913
+s2480
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/BuyOn.png
+c0000000051C8FFF8000000000000088D
+t1372127224
+s2189
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/CustomTBCell-Prefix.pch
+c0000000051EA3A910000000000000147
+t1374304913
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.h
+c0000000051EA3A910000000000000166
+t1374304913
+s358
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.m
+c0000000051EA3A9100000000000004F6
+t1374304913
+s1270
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.h
+c0000000051EA40630000000000000177
+t1374306403
+s375
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.m
+c0000000051EB59700000000000000FDA
+t1374378352
+s4058
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.h
+c0000000051EA3CD50000000000000193
+t1374305493
+s403
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.m
+c0000000051EA44B10000000000000348
+t1374307505
+s840
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.xib
+c0000000051EA451D00000000000037B6
+t1374307613
+s14262
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/DetailViewController.xib
+c0000000051EA3A910000000000002B0F
+t1374304913
+s11023
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/InfoPlist.strings
+c0000000051EA3A91000000000000002D
+t1374304913
+s45
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/MasterViewController.xib
+c0000000051EA3A910000000000001930
+t1374304913
+s6448
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/main.m
+c0000000051EA3A91000000000000015F
+t1374304913
+s351
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/AppDelegate.o
+t1374306404
+s92680
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/CustomTBCell.LinkFileList
+c0000000051EA40630000000000000424
+t1374306403
+s1060
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/DetailViewController.o
+t1374306404
+s74548
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/MasterViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/customCell.o
+t1374307506
+s74280
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/main.o
+t1374306404
+s3384
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch.pth
+t1374306404
+s4678792
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app
+t1374378289
+s374
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app.dSYM
+t1374378289
+s102
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/BuyOn.png
+t1374306404
+s2189
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell
+t1374378289
+s38832
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default-568h@2x.png
+t1374306404
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default.png
+t1374306404
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default@2x.png
+t1374306404
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Info.plist
+t1374306403
+s923
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/PkgInfo
+t1374306403
+s8
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/customCell.nib
+t1374307615
+s1938
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/DetailViewController.nib
+t1374306405
+s1831
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/InfoPlist.strings
+t1374306404
+s42
+
+N/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/MasterViewController.nib
+t1374306405
+s1140
+
+NCustomTBCell/CustomTBCell-Info.plist
+c0000000051EA3A910000000000000557
+t1374304913
+s1367
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesde569af0909bb741^fed29af0909bb741^---0#1#0#--18"Check dependencies36"17696427-BDA9-4994-A121-0422953FFCFD-
+
+CCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/AppDelegate.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395999204.068119
+e395999204.221367
+r1
+xCompileC
+xDerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.m00ad11e4779ab741^a4ab38e4779ab741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.m0000000000000000^4488"CompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/AppDelegate.o CustomTBCell/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/AppDelegate.o36"DDCFB8E3-3FF8-422E-AFFE-3C368F9DB4A4-
+
+CCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/DetailViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395999204.068096
+e395999204.198482
+r1
+xCompileC
+xDerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/DetailViewController.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.mcdac11e4779ab741^eece32e4779ab741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.m0000000000000000^4542"CompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/DetailViewController.o CustomTBCell/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/DetailViewController.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/DetailViewController.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/DetailViewController.o36"330B6DF6-4D67-4104-8E49-B5D19C99A62D-
+
+CCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/MasterViewController.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396071152.657759
+e396071153.001795
+r1
+xCompileC
+xDerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/MasterViewController.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.md234acf0909bb741^757400f1909bb741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.m0000000000000000^4542"CompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/MasterViewController.o CustomTBCell/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/MasterViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/MasterViewController.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/MasterViewController.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/MasterViewController.o36"8ADE3B93-A330-4FBA-BB00-FE30737C009E-
+
+CCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/customCell.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396000306.081097
+e396000306.889949
+r1
+xCompileC
+xDerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/customCell.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.m5e2f15327c9ab741^c8d2e3327c9ab741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.m0000000000000000^4482"CompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/customCell.o CustomTBCell/customCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/customCell.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/customCell.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/customCell.o36"FA8FE608-176A-4141-8BEE-1A14595F205B-
+
+CCompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/main.o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395999204.068110
+e395999204.116668
+r1
+xCompileC
+xDerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/main.o
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/main.mc5aa11e4779ab741^97571ee4779ab741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/main.m0000000000000000^4446"CompileC DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/main.o CustomTBCell/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator -include /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/main.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/main.m -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/main.o36"A4608BFC-83C9-4FBF-B6E4-7E2F434F9F15-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.xib
+s396000413.630663
+e396000415.724512
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compiling /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.xib3e93a19d7c9ab741^5b79b99f7c9ab741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.xib0000000000000000^1020"CompileXIB CustomTBCell/customCell.xib    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/customCell.nib /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/customCell.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"C290F3A9-2C2D-444D-8598-AFFB22A3F3D2-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/DetailViewController.xib
+s395999204.376506
+e395999205.875075
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/DetailViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compiling /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/DetailViewController.xib4a7e60e4779ab741^f511e0e5779ab741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/DetailViewController.xib0000000000000000^1077"CompileXIB CustomTBCell/en.lproj/DetailViewController.xib    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/DetailViewController.nib /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/DetailViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"5C457900-E1FA-4772-931B-7C41585CAD75-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/MasterViewController.xib
+s395999204.376489
+e395999205.686397
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/MasterViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compiling /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/MasterViewController.xiba67c60e4779ab741^b7b7afe5779ab741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/MasterViewController.xib0000000000000000^1077"CompileXIB CustomTBCell/en.lproj/MasterViewController.xib    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/MasterViewController.nib /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/MasterViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"147676C9-729D-46CF-AD67-FF3DD96050CC-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/InfoPlist.strings CustomTBCell/en.lproj/InfoPlist.strings
+s395999204.372271
+e395999204.377577
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/InfoPlist.strings
+xCustomTBCell/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy CustomTBCell/en.lproj/InfoPlist.strings2d7a5fe4779ab741^15a960e4779ab741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/en.lproj/InfoPlist.strings0000000000000000^727"CopyStringsFile DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj/InfoPlist.strings CustomTBCell/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/en.lproj -- CustomTBCell/en.lproj/InfoPlist.strings36"C497CAD3-5625-4F55-A067-6433827384E7-
+
+CCpResource CustomTBCell/BuyOn.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/BuyOn.png
+s395999204.379912
+e395999204.383816
+r1
+xCpResource
+xCustomTBCell/BuyOn.png
+xDerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/BuyOn.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/BuyOn.pngcd5761e4779ab741^184262e4779ab741^---0#0#0#-19%DVTDocumentLocation2@175"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/BuyOn.png000000000080d041^752"CpResource CustomTBCell/BuyOn.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/BuyOn.png    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/BuyOn.png /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app36"47194482-055C-4A89-A017-1C9B3529AE67-
+
+CCpResource CustomTBCell/Default-568h@2x.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default-568h@2x.png
+s395999204.372491
+e395999204.378628
+r1
+xCpResource
+xCustomTBCell/Default-568h@2x.png
+xDerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default-568h@2x.pngd57a5fe4779ab741^e5ed60e4779ab741^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default-568h@2x.png000000000080d041^788"CpResource "CustomTBCell/Default-568h@2x.png" "DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default-568h@2x.png"    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/Default-568h@2x.png" /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app36"35F12D72-DF3A-4CE7-90B6-69EE139C0C26-
+
+CCpResource CustomTBCell/Default.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default.png
+s395999204.372286
+e395999204.375293
+r1
+xCpResource
+xCustomTBCell/Default.png
+xDerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default.pngda715fe4779ab741^661360e4779ab741^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default.png000000000080d041^758"CpResource CustomTBCell/Default.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default.png    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/Default.png /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app36"2522AE17-897F-48A3-B28E-42297767E668-
+
+CCpResource CustomTBCell/Default@2x.png DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default@2x.png
+s395999204.372295
+e395999204.376217
+r1
+xCpResource
+xCustomTBCell/Default@2x.png
+xDerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default@2x.png82725fe4779ab741^595060e4779ab741^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default@2x.png000000000080d041^773"CpResource "CustomTBCell/Default@2x.png" "DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/Default@2x.png" /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app36"EBDE7AF3-085C-494B-8661-1343A112CB79-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app.dSYM /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell
+s396071153.202130
+e396071153.283835
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Generate /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app.dSYM4ef233f1909bb741^fbae48f1909bb741^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app.dSYM/0000000000000000^887"GenerateDSYMFile DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app.dSYM DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app.dSYM36"8A75526D-A17C-4E47-AA3B-1ACF73A3C878-
+
+CLd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell normal i386
+s396071153.020741
+e396071153.179263
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Link /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell558605f1909bb741^c2fb2ef1909bb741^---0#0#0#--1517"Ld DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell normal i386    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator -filelist /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/Objects-normal/i386/CustomTBCell.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/CustomTBCell36"99454D0D-54E9-4833-BDF7-8D0471104AA5-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Info.plist CustomTBCell/CustomTBCell-Info.plist
+s395999203.660492
+e395999203.664512
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Info.plist
+xCustomTBCell/CustomTBCell-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process CustomTBCell/CustomTBCell-Info.plist6535a9e3779ab741^882caae3779ab741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/CustomTBCell-Info.plist0000000000000000^883"ProcessInfoPlistFile DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Info.plist CustomTBCell/CustomTBCell-Info.plist    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CustomTBCell/CustomTBCell-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app/Info.plist36"309670B1-123B-4AE6-8ED0-C9EBE26E5617-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch.pth CustomTBCell/CustomTBCell-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395999203.672826
+e395999204.061067
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch.pth
+xCustomTBCell/CustomTBCell-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile CustomTBCell/CustomTBCell-Prefix.pch9a77ace3779ab741^16a20fe4779ab741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/CustomTBCell-Prefix.pch0000000000000000^4304"ProcessPCH DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch.pth CustomTBCell/CustomTBCell-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/CustomTBCell-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources/i386 -I/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/CustomTBCell.build/Debug-iphonesimulator/CustomTBCell.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/CustomTBCell/CustomTBCell-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Intermediates/PrecompiledHeaders/CustomTBCell-Prefix-fvqqjprtipmzwfhcegwkonivltyc/CustomTBCell-Prefix.pch.d36"54DA1A7B-73AD-4013-AFDE-D74CF5534733-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Index/PrecompiledHeaders/CustomTBCell-Prefix-gytipzirpdbhfiesvhumnoxcwzhv_ast/CustomTBCell-Prefix.pch.pth CustomTBCell/CustomTBCell-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app
+s396071153.322401
+e396071153.341608
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Touch /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.appf10f53f1909bb741^087357f1909bb741^---0#0#0#--530"Touch DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app    cd /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/YoutubeTableViewTutorial/CustomTBCell/DerivedData/CustomTBCell/Build/Products/Debug-iphonesimulator/CustomTBCell.app36"A355880F-A9D6-44E8-A49C-EC8280405A57-
+
